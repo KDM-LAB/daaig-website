@@ -12,7 +12,9 @@ copyright: DAIIG
 
 ## Page tree
 nav:
-    - Home: index.md
+    - Home:
+      - About: "index.md"
+      - 'Registration': 'registration.md'
 #    - People:
 #        - Current: people/current.md
 #        - Past: people/past.md
