@@ -13,7 +13,8 @@ copyright: DAIIG
 ## Page tree
 nav:
     - Home:
-      - About: "index.md"
+      - LLM Workshop: "index.md"
+      - Speakers: "speakers.md"
       - 'Registration': 'registration.md'
 #    - People:
 #        - Current: people/current.md
