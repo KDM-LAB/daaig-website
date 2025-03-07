@@ -1,4 +1,8 @@
-## Registration
+---
+hide:
+  - toc
+---
+
 Thank you for your interest in attending the LLM Workshop!
 
 **Registration Fee:**
@@ -11,7 +15,7 @@ Thank you for your interest in attending the LLM Workshop!
 | Industry               | INR 10000 |
 
 
-The registration fee for main conference will cover registration kit, full access to all sessions/invited talks, and a banquet dinner.  
+The registration fee for main conference will cover registration kit, full access to all sessions/invited talks, lunch and tea.  
 Note: Registration does not cover accommodation and the participants have to make their own arrangements.
 
 **Payment Instructions:**  

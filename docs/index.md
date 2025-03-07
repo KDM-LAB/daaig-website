@@ -15,65 +15,70 @@
 }
 </style>
 
-<figure markdown="span">
-    <img src="../../assets/iss2025.png" alt="drawing" width="80%"/>
-    <figcaption>**From Legacy to Leading-Edge: Transforming Software Design in
-    Science to Meet Tomorrow’s Challenges**</figcaption>
-</figure>
+# 1𝑠𝑡 DAAIG Workshop on Modern LLMs and Applications.
 
 <div class="table">
     <div class="row">
-        <div class="cell"><b>When:</b></div>
-        <div class="cell">7-10 April, 2025</div>
+        <div class="cell"><b>Dates:</b></div>
+        <div class="cell">22-23 March, 2025</div>
+    </div>
+    <div class="row">
+        <div class="cell"><b>Time:</b></div>
+        <div class="cell">9:30 AM - 6:00 PM</div>
     </div>
     <div class="row">
         <div class="cell"><b>Where:</b></div>
-        <div class="cell">DAIICT, Gandhinagar</div>
+        <div class="cell">DA-IICT, DA-IICT Road, Gandhinagar 382
+007, Gujarat (India)</div>
     </div>
 </div>
 
-Description of LLM workshop 
+### About
+- **Hands-on Focus** – A two-day immersive workshop
+designed for practical experience with Large
+Language Models (LLMs).
+- **Less Theory, More Practice** – Instead of long
+research talks, the emphasis is on interactive coding
+sessions and real-world applications.
+- **Key topics covered**:
+    - Fine-tuning LLMs for specific tasks
+    - Deploying models efficiently
+    - Optimizing performance and reducing costs
+    - Mastering prompt engineering and model customization  
+- **For All Skill Levels** – Whether you’re a beginner or
+  an advanced user, you’ll gain valuable insights into
+  working with LLMs effectively.
+- **Learn by Doing** – Engage in expert-led sessions,
+  collaborative exercises, and hands-on coding to build
+  your own AI-powered solutions.
+  Join us and take your LLM skills to the next level!
 
 ### Audience
 
-DEscription of target audience
+1. **Data Scientists and Machine Learning Engineers**: Professionals seeking to enhance their technical skills in fine-tuning, deploying, and optimizing LLMs efficiently for various applications.
 
-## Registration and Logistics
+2. **Software Developers**: Developers interested in mastering LLM applications and model customization to integrate AI solutions into their projects.
 
-Registration is now open for the conference. We offer in-person and virtual
-registration - both types provide access for all four days of the conference. We
-do not offer single-day registration.
-<br><figure markdown="span">
+3. **Beginners and Novices**: Those new to the field looking for a hands-on introduction to LLMs that balances learning with practical application, regardless of prior experience level.
 
-| Registration(per-head) | Price     |
-|------------------------|-----------|
-| DAIICT students        | INR 500   |
-| Student                | INR 2500  |
-| Faculty                | INR 5000  |
-| Industry               | INR 10000 |
-
-[Registration Portal](https://docs.google.com/forms/d/e/1FAIpQLSdnzi8iXgM6cgBAplhqlsqPaWcr2TO_inHUSbh2mxcKAkSwpQ/viewform){ .md-button }
-</figure>
+4. **Academics and Researchers**: Individuals in academic settings who prefer interactive, practice-oriented learning over traditional theoretical research talks.
 
 
-### Venue
+## Venue
 
-<img src="../../assets/CG1.jpg" width=500px>
+<img src="../images/daiict.jpeg" width=500px>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.4973993967506!2d72.6263405752167!3d23.1885369790578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395c2a3c9618d2c5%3A0xc54de484f986b1fa!2sDA-IICT!5e0!3m2!1sen!2sin!4v1741261913272!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 DAIICT Gandhinagar  
 Gujarat
 
-### Lodging
+
+## Lodging
 
 There are a multitude of great lodging options across Gandhinagar. 
 
 <br>
-
-
-### Proceedings
-
 
 
 ## Code of Conduct
