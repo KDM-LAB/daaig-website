@@ -54,7 +54,7 @@ hide:
 
 
 
-## Handson Speakers
+## Hands-on Speakers
 
 <div class="people-row">
 <div class="person">
