@@ -83,7 +83,7 @@ There are a multitude of great lodging options across Gandhinagar.
 
 ## Code of Conduct
 
-DAIICT and DAIIG are committed to providing a safe, productive, and welcoming
+DAIICT and DAAIG are committed to providing a safe, productive, and welcoming
 environment for all participants in any conference, workshop, field project or
 project hosted or managed by DAIICT, no matter what role they play or their
 background.
