@@ -15,6 +15,7 @@ nav:
     - Home:
       - LLM Workshop: "index.md"
       - Speakers: "speakers.md"
+      - Schedule: "schedule.md"
       - 'Registration': 'registration.md'
 #    - People:
 #        - Current: people/current.md
