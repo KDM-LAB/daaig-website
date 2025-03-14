@@ -7,12 +7,12 @@ Thank you for your interest in attending the LLM Workshop!
 
 **Registration Fee:**
 
-| Registration(per-head) | Price     |
-|------------------------|-----------|
-| DAIICT students        | INR 500   |
-| Student                | INR 2500  |
-| Faculty                | INR 5000  |
-| Industry               | INR 10000 |
+| Registration(per-head) | Offline Fees with 35% discount | Online Fees |
+|------------------------|--------------------------|-------------|
+| DAIICT students        | INR 500                  | INR 500     |
+| Student                | INR 1625                 | INR 1000    |
+| Faculty                | INR 3250                 | INR 2000    |
+| Industry               | INR 6500                 | INR 4000    |
 
 
 The registration fee for main conference will cover registration kit, full access to all sessions/invited talks, lunch and tea.  
