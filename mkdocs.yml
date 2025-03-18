@@ -8,7 +8,7 @@ copyright: "© 2025 DAAIG. All rights reserved."
 # Theme configuration
 theme:
   name: material
-  logo: logo/daiict.jpeg
+  logo: images/daiict.jpeg
   favicon: images/favicon.ico
 
 # Navigation setup
