@@ -72,8 +72,6 @@ hide:
         </div>
     </div>
     
-
-
 </div>
 
 <div class="people-row">
